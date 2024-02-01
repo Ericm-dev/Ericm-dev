@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
+- ⭐ Licenciatura en comercio electónico II año
 - 👨‍💻 Desarrollo web
   
 <br>
