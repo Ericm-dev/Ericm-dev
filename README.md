@@ -7,6 +7,8 @@
 
 - ⭐ Licenciatura en comercio electónico II año
 - 👨‍💻 Desarrollo web
+- 🌐 Html, Css, JavaScript
+- 
   
 <br>
 
