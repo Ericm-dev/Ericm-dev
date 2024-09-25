@@ -33,7 +33,7 @@ Soy un estudiante de la **Licenciatura en Gerencia de Comercio Electrónico** y 
 - **Frameworks:** Spring Boot
 - **Bases de Datos:** MySQL
 - **Versionamiento:** Git, GitHub
-- **Herramientas:** Excel avanzado, CMS, Software de ofimática
+- **Herramientas:** Excel avanzado, CMS, Software de ofimática, herramientas digitales
 - **Metodologías:** Trabajo en equipo, Autodidacta, Comunicación asertiva
 
 ---
