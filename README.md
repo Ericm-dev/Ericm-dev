@@ -20,7 +20,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy un estudiante de **Gerencia de Comercio Electrónico** y un apasionado del desarrollo web con un sólido conocimiento en **Java, Spring Boot, SQL**, y **JavaScript**. Mi meta es seguir aprendiendo y aportar soluciones innovadoras a los desafíos tecnológicos actuales.
+Soy un estudiante de la **Licenciatura en Gerencia de Comercio Electrónico** y un apasionado del desarrollo web con un sólido conocimiento en **Java, Spring Boot, SQL**, y **JavaScript**. Mi meta es seguir aprendiendo y aportar soluciones innovadoras a los desafíos tecnológicos actuales.
 
 - 🌟 Participante en el programa **Oracle Next Education** con especialización en Back-End
 - 🚀 Siempre buscando mejorar mis habilidades en desarrollo web y programación
