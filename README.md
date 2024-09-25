@@ -63,25 +63,6 @@ Soy un estudiante de **Gerencia de Comercio Electrónico** y un apasionado del d
 
 ---
 
-## 🚀 Formación Académica
-
-- **Licenciatura en Gerencia de Comercio Electrónico**
-- **Oracle Next Education** - Especialización en Back-End
-- **Certificaciones:**
-  - Java y Spring Boot
-  - SQL con MySQL
-  - Git y GitHub
-  - Excel Avanzado
-
----
-
-## 💼 Experiencia Laboral
-
-- **Auxiliar General** en diversos sectores
-- Proyectos personales de desarrollo web
-
----
-
 ## 📫 Contáctame
 
 - **Email:** [ericmerelt@gmail.com](mailto:ericmerelt@gmail.com)
