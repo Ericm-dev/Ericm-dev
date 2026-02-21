@@ -1,63 +1,78 @@
 <div align="center">
-  <h1>Hola, soy <a href="https://github.com/Ericm-dev">Ericm-dev</a> 👋</h1>
-  <p>¡Apasionado por la tecnología y el desarrollo web!</p>
+  <h1>Eric Merel</h1>
+  <h3>Gerencia de Comercio Electrónico | Ecommerce & Análisis de Datos</h3>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/CMS-35495E?style=for-the-badge&logo=cms&logoColor=white" alt="CMS">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+---
+
+## 👨‍💼 Perfil Profesional
+
+Estudiante de **Licenciatura en Gerencia de Comercio Electrónico** con enfoque en gestión estratégica de negocios digitales y análisis de datos para optimización comercial.
+
+Me especializo en:
+
+- Gestión integral de tiendas online  
+- Análisis de métricas de ventas  
+- Optimización de conversión  
+- Estructuración de catálogos digitales  
+- Mejora de procesos operativos en ecommerce  
+
+Mi interés profesional está en utilizar datos y herramientas digitales para mejorar rentabilidad, eficiencia y toma de decisiones en negocios online.
 
 ---
 
-## 👨‍💻 Sobre mí
+## 📊 Competencias en Ecommerce
 
-Soy estudiante de la **Licenciatura en Gerencia de Comercio Electrónico** con un sólido conocimiento en **desarrollo de ecommerce**. Mi meta es seguir aprendiendo y aportar soluciones innovadoras a los desafíos tecnológicos actuales.
-
-- 🌟 Participante en el programa **Oracle Next Education** con especialización en Back-End
-- 🚀 Siempre buscando mejorar mis habilidades en desarrollo web y programación
-
----
-
-## 🔧 Habilidades Técnicas
-
-- **Herramientas:** Excel avanzado, CMS, Software de ofimática, herramientas digitales
-- **Metodologías:** Trabajo en equipo, Autodidacta, Comunicación asertiva
+- Gestión de catálogo y productos digitales  
+- Configuración operativa de tiendas online  
+- Análisis de ventas y comportamiento de clientes  
+- Métricas clave: conversión, ticket promedio, margen  
+- Optimización básica SEO en ecommerce  
+- Organización de inventario digital  
 
 ---
 
-## 🌟 Proyectos Destacados
+## 🧠 Análisis y Herramientas
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">API de Conversión de Monedas</h3>
-      <div align="center">
-        <a href="https://github.com/Ericm-dev/moneda-api" target="_blank"><img src="" width="400" alt="Moneda API"></a>
-        <p>
-          <a href="https://github.com/Ericm-dev/moneda-api" target="_blank">
-            <img src="https://img.shields.io/badge/Java-SpringBoot-brightgreen">
-          </a>
-          <a href="https://github.com/Ericm-dev/moneda-api" target="_blank">
-            <img src="https://img.shields.io/badge/SQL-MySQL-orange">
-          </a>
-        </p>
-        <p>Una API para convertir monedas en tiempo real, utilizando datos de múltiples fuentes.</p>
-      </div>                                                                              
-    </td>
-  </tr>
-</table>
+- Excel avanzado (dashboards, análisis comercial)  
+- Interpretación de KPIs de negocio digital  
+- Estructuración de reportes de ventas  
+- Bases de datos MySQL (consulta y análisis básico)  
 
 ---
 
-## 📫 Contáctame
+## 📈 Proyectos Académicos y Prácticos
 
-- **Email:** [ericmerelt@gmail.com](mailto:ericmerelt@gmail.com)
-- **GitHub:** [Ericm-dev](https://github.com/Ericm-dev)
+### 🔹 Implementación de Ecommerce
+- Creación y organización de tienda online  
+- Gestión estructurada de productos y categorías  
+- Configuración de pagos y envíos  
+- Análisis inicial de métricas comerciales  
 
-<!--<div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Ericm-dev" alt="Visitas del perfil">
-</div> -->
+---
+
+### 🔹 Dashboard Comercial en Excel
+- Análisis de rendimiento mensual  
+- Cálculo de ticket promedio  
+- Identificación de productos más vendidos  
+- Evaluación de tendencias de ventas  
+
+---
+
+## 🎯 Enfoque Profesional
+
+Interesado en roles como:
+
+- Analista Ecommerce  
+- Asistente de Operaciones Digitales  
+- Analista Comercial Digital  
+- Coordinador de Tienda Online  
+
+Enfocado en aportar valor a empresas mediante análisis de datos y optimización estratégica del canal digital.
+
+---
+
+## 📫 Contacto
+
+Email: ericmerelt@gmail.com  
+GitHub: https://github.com/Ericm-dev
