@@ -9,14 +9,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/CMS-35495E?style=for-the-badge&logo=cms&logoColor=white" alt="CMS">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-
 </p>
 
 ---
 
 ## 👨‍💻 Sobre mí
 
-Soy un estudiante de la **Licenciatura en Gerencia de Comercio Electrónico** y un apasionado del desarrollo web con un sólido conocimiento en **Java, Spring Boot, SQL**, y **JavaScript**. Mi meta es seguir aprendiendo y aportar soluciones innovadoras a los desafíos tecnológicos actuales.
+Soy estudiante de la **Licenciatura en Gerencia de Comercio Electrónico** con un sólido conocimiento en **desarrollo de ecommerce**. Mi meta es seguir aprendiendo y aportar soluciones innovadoras a los desafíos tecnológicos actuales.
 
 - 🌟 Participante en el programa **Oracle Next Education** con especialización en Back-End
 - 🚀 Siempre buscando mejorar mis habilidades en desarrollo web y programación
@@ -25,10 +24,6 @@ Soy un estudiante de la **Licenciatura en Gerencia de Comercio Electrónico** y 
 
 ## 🔧 Habilidades Técnicas
 
-- **Lenguajes:** Java, JavaScript, HTML, CSS, SQL
-- **Frameworks:** Spring Boot
-- **Bases de Datos:** MySQL
-- **Versionamiento:** Git, GitHub
 - **Herramientas:** Excel avanzado, CMS, Software de ofimática, herramientas digitales
 - **Metodologías:** Trabajo en equipo, Autodidacta, Comunicación asertiva
 
